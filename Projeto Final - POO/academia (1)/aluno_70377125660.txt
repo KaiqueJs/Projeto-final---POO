@@ -1,9 +1,0 @@
-=== DADOS DO ALUNO ===
-Nome: Caio Moreira Spindola
-CPF: 703.771.256-60
-
-=== PLANO ===
-Plano: Plano Básico | Valor: R$ 99,90
-
-=== TREINO ===
-(Aluno ainda não possui treino.)

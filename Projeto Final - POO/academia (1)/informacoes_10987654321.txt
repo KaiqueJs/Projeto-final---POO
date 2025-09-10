@@ -1,4 +1,0 @@
-Aluno: Aluno Teste
-CPF: 10987654321
-Treino: Treino Inicial
-Itens do treino: []
