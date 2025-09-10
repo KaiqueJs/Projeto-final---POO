@@ -1,0 +1,16 @@
+=== DADOS DO ALUNO ===
+Nome: Guilherme
+CPF: 481.790.818-18
+
+=== PLANO ===
+Plano: Plano Completo Anual
+Valor: R$ 1200,00/ano
+
+=== TREINO ===
+Treino: A
+---------------------------------
+    - Exercício: Supino
+      Grupo: Peito
+      Séries: 2
+      Obs: 20
+---------------------------------

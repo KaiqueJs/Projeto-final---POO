@@ -1,0 +1,11 @@
+=== DADOS DO ALUNO ===
+Nome: angelica
+CPF: 138.333.546-92
+
+=== PLANO ===
+Plano: Plano Básico | Valor: R$ 99,90
+
+=== TREINO ===
+--- Ficha de Treino: full body ---
+- leg press - 4x10 reps, 50s, 100kgs
+--------------------------------------
